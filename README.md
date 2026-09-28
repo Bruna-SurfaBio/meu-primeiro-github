@@ -5,3 +5,4 @@ Repositório de teste para aprender Git e GitHub
 - O que é um repositório
 - O que é um commit
 - Como funciona o histórico de alterações
+- Como comparar versões
